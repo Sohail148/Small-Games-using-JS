@@ -15,9 +15,9 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 ## Game Demo
 
-![Tic Tac Toe Demo](./demo.gif)
 
-[Play the game here](link-to-your-game)
+
+[Play the game here](https://sohail148.github.io/Tic-tac-toe/)
 
 ## Features
 
@@ -57,4 +57,4 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/sohail148/tic-tac-toe.git
